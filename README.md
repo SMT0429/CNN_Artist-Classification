@@ -1,6 +1,6 @@
 # CNN Artist Classification
 
-使用卷積神經網路（CNN）對畫作進行**畫家分類**的深度學習作業（HW1）。模型讀入一張畫作圖片，預測其作者屬於哪一位畫家。
+使用卷積神經網路（CNN）對畫作進行**畫家分類**的深度學習專案。模型讀入一張畫作圖片，預測其作者屬於哪一位畫家。
 
 資料集為 [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)，包含 50 位知名畫家的畫作。
 
