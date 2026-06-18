@@ -1,0 +1,11 @@
+# 圖片資料集（過大，不上傳）
+train/train_resized/
+test_resized/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
